@@ -5,15 +5,15 @@ import { MdAddModerator } from "react-icons/md";
 import { SiProbot } from "react-icons/si";
 import { TbMessage2Code } from "react-icons/tb";
 const config = {
-  name: "ProBot",
+  name: "Mr Cat Memer",
   //BotName
   inviteLink:
-    "https://discord.com/oauth2/authorize?client_id=879602399067660338&permissions=8&scope=bot&redirect_uri=https://docs.markos.ga&response_type=code",
+    "https://discord.com/api/oauth2/authorize?client_id=1162213054705057792&permissions=8&scope=bot",
   //BotInvite Link
-  Features: [
+  Features: /
     {
       name: "Moderation",
-      description:
+      description:this bot is upcoming
         "Moderation is the process of eliminating or lessening extremes.",
       logo: <MdAddModerator className="h-10 w-10" />,
     },
@@ -58,8 +58,9 @@ const config = {
   twitterLink: "https://twitter.com",
   mediumLink: "https://medium.com/",
   facebookLink: "https://facebook.com",
-  discordLink: "https://discord.com",
-  youtubeLink: "https://www.youtube.com/channel/UCfhRHeex9lU0ZAVJot6Z2ZQ",
+  discordLink: "https://discord.gg/pXKXuSrMxz",
+  youtubeLink: "https://www.youtube.com/channel/UCy5fZlMoD_xr00o69bUfH0Q
+    ",
 };
 
 export default config;
